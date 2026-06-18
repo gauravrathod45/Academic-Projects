@@ -12,6 +12,7 @@ Each project folder includes:
 - Automatic Staircase Lighting System  
 - Laser Based Communication System  
 - IoT Based Smart Farming Robot (AGRIBOT)
+- ESP32-CAM Based Wireless Surveillance Robot
 
 This repository showcases my practical exposure to electronics, embedded systems,
 and system-level project implementation.
