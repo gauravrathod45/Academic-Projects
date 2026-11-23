@@ -8,6 +8,7 @@ Each project folder includes:
 - Project report (PDF)
 
 ## Projects Included
+-Smart Pesticides Residue Detection System 
 - Automatic Object Counter for Industrial Counting System  
 - Automatic Staircase Lighting System  
 - Laser Based Communication System  
